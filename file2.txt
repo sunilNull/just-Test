@@ -1,0 +1,2 @@
+this is another file for master-branch with more text and
+also more lines. this file is use to explain commit more file using one command.
